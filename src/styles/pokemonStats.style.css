@@ -43,6 +43,7 @@ body{
 .statValue{
     background-color:#fc5c65;
     height: 20px;
+    max-width:100%;
 }
 
 @keyframes widthAnimation{
