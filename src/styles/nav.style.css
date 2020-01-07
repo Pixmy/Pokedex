@@ -1,0 +1,13 @@
+nav{
+    background-color:#e42024;
+    color:#fff;
+    padding:10px;
+    position: fixed;
+    left:0;
+    right:0;
+    top:0;
+    font-weight: 700;
+    font-size:20px;
+    border-bottom: #333;
+    z-index: 99;
+}
